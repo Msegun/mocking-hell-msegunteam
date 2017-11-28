@@ -1,4 +1,4 @@
 Group Msegun
 
-Krzysztof Borawski
-Karolina Rostek
+[Krzysztof Borawski](github.com/msegun)
+[Karolina Rostek](github.com/carolsien)
