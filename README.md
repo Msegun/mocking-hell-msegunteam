@@ -1,4 +1,4 @@
 Group Msegun
 
-[Krzysztof Borawski](https://github.com/msegun)
-[Karolina Rostek](https://github.com/carolsien)
+[Krzysztof Borawski(msegun/kumamon)](https://github.com/msegun)
+[Karolina Rostek(sadPanda)](https://github.com/carolsien)
