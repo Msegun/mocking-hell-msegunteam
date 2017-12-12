@@ -1,5 +1,8 @@
 # Tutorial Controller by Kumamon
 class ArticlesController < ApplicationController
+
+  http_basic_authenticate_with name: "msegun", password: "haslo", except: [:index, :show]
+
   # Show all articles
   def index
     @articles = Article.all
