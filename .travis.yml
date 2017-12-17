@@ -16,4 +16,4 @@ script:
   - bundle install; rspec spec --format documentation
 
 after_script:
-- ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
+- bundle exec rspec
