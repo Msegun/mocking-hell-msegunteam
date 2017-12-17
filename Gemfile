@@ -12,6 +12,8 @@ gem 'rails', '~> 5.1.4'
 gem 'sqlite3'
 
 gem 'simplecov', :require => false, :group => :test
+gem 'rspec', :require => false, :group => :test
+
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
