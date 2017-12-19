@@ -1,11 +1,11 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/msegun/Dokumenty/Ruby/MovieBlog/spec/models/dummy_model_spec.rb": [
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/spec/controllers/articles_controller_spec.rb": [
         1,
         null,
         1,
-        1,
+        null,
         null
       ],
       "/home/msegun/Dokumenty/Ruby/MovieBlog/spec/rails_helper.rb": [
@@ -233,14 +233,138 @@
       ],
       "/home/msegun/Dokumenty/Ruby/MovieBlog/config/routes.rb": [
         1,
+        1,
         null,
+        1,
+        null,
+        1,
         null
       ],
       "/home/msegun/Dokumenty/Ruby/MovieBlog/app/helpers/application_helper.rb": [
         1,
         null
       ],
-      "/home/msegun/Dokumenty/Ruby/MovieBlog/app/models/dummy_model.rb": [
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/app/helpers/articles_helper.rb": [
+        1,
+        null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/app/helpers/welcome_helper.rb": [
+        1,
+        null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/app/controllers/articles_controller.rb": [
+        1,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        null,
+        null,
+        1,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null,
+        0,
+        0,
+        null,
+        0,
+        null,
+        null,
+        null,
+        1,
+        1,
+        0,
+        null,
+        null,
+        null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/app/controllers/application_controller.rb": [
+        1,
+        1,
+        null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/spec/controllers/welcome_controller_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/app/controllers/welcome_controller.rb": [
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/spec/helpers/articles_helper_spec.rb": [
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/spec/helpers/welcome_helper_spec.rb": [
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/spec/models/article_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/app/models/article.rb": [
+        1,
         1,
         null
       ],
@@ -248,8 +372,26 @@
         1,
         1,
         null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/spec/models/dummy_model_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/app/models/dummy_model.rb": [
+        1,
+        null
+      ],
+      "/home/msegun/Dokumenty/Ruby/MovieBlog/spec/views/welcome/index.html.erb_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1513528579
+    "timestamp": 1513678133
   }
 }
