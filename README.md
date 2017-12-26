@@ -1,24 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Jest to mała apka w railsach. Użytkownik może dodawać, edytować i kasować artykuły
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+|[![Build Status](https://travis-ci.org/my-rspec/mocking-hell-msegunteam.svg?branch=master)](https://travis-ci.org/my-rspec/mocking-hell-msegunteam)   |[![Maintainability](	https://api.codeclimate.com/v1/badges/7ee8a9d2aa69693fef05/maintainability)](https://codeclimate.com/github/my-rspec/mocking-hell-msegunteam/maintainability)   |[![Test Coverage](https://api.codeclimate.com/v1/badges/7ee8a9d2aa69693fef05/test_coverage)](https://codeclimate.com/github/my-rspec/mocking-hell-msegunteam/test_coverage)|
