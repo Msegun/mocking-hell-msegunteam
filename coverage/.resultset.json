@@ -262,7 +262,7 @@
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/controllers/articles_controller.rb": [
         1,
         1,
-        6,
+        7,
         null,
         null,
         1,
@@ -281,7 +281,15 @@
         null,
         null,
         1,
-        0,
+        3,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
         null,
         null,
         1,
@@ -294,6 +302,13 @@
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/controllers/application_controller.rb": [
         1,
         1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
         null
       ],
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/features/creating_article_spec.rb": [
@@ -370,6 +385,24 @@
         null,
         null
       ],
+      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/features/show_article_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/models/article_spec.rb": [
         1,
         null,
@@ -381,15 +414,45 @@
         1,
         1,
         1,
-        16,
+        23,
         null
       ],
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/models/application_record.rb": [
         1,
         1,
         null
+      ],
+      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/requests/articles_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        2,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        1,
+        2,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null
       ]
     },
-    "timestamp": 1514546878
+    "timestamp": 1514548207
   }
 }
