@@ -262,7 +262,7 @@
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/controllers/articles_controller.rb": [
         1,
         1,
-        5,
+        6,
         null,
         null,
         1,
@@ -332,18 +332,37 @@
         1,
         null,
         1,
+        2,
+        2,
+        null,
+        null,
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
         1,
         1,
         null,
         null,
         1,
+        null,
+        1,
+        null,
+        1,
+        null,
         1,
         1,
         1,
         1,
         1,
         1,
+        null,
         1,
+        1,
+        null,
         null,
         null
       ],
@@ -358,7 +377,7 @@
         1,
         1,
         1,
-        12,
+        16,
         null
       ],
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/models/application_record.rb": [
@@ -367,6 +386,6 @@
         null
       ]
     },
-    "timestamp": 1514541418
+    "timestamp": 1514542160
   }
 }
