@@ -556,10 +556,11 @@
       ],
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/controllers/articles_controller.rb": [
         1,
+        null,
         1,
         null,
         1,
-        14,
+        16,
         null,
         null,
         1,
@@ -777,6 +778,26 @@
         null,
         null
       ],
+      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/features/signing_users_in_spec.rb": [
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null
+      ],
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/features/signing_users_up_spec.rb": [
         1,
         null,
@@ -844,10 +865,10 @@
         1,
         1,
         1,
-        42,
+        44,
         null
       ]
     },
-    "timestamp": 1514716007
+    "timestamp": 1514717494
   }
 }
