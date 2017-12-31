@@ -482,25 +482,6 @@
         null,
         null
       ],
-      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/models/article_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        null
-      ],
-      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/models/article.rb": [
-        1,
-        1,
-        1,
-        39,
-        null
-      ],
-      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/requests/articles_spec.rb": [
         1,
         null,
@@ -530,8 +511,20 @@
         null,
         null,
         null
+      ],
+      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/models/article.rb": [
+        1,
+        1,
+        1,
+        39,
+        null
+      ],
+      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/models/application_record.rb": [
+        1,
+        1,
+        null
       ]
     },
-    "timestamp": 1514638300
+    "timestamp": 1514711783
   }
 }
