@@ -2,7 +2,7 @@ require 'rails_helper'
 
 RSpec.feature "Article" do
 
-feature "#Showing an Article" do
+  feature "#Showing an Article" do
     before do
       john = User.create(email: "john@example.com", password: "password")
       login_as(john)
