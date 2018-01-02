@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.feature "Article" do
+RSpec.feature "Article-show" do
 
   feature "#Showing an Article" do
     before do

@@ -1,35 +1,37 @@
 require "rails_helper"
 
-RSpec.feature "Editing an Article" do
+RSpec.feature "Article - editing" do
   before do
     john = User.create(email: "john@example.com", password: "password")
     login_as(john)
     @article = Article.create(title: "First Article", body: "Lorem Ipsum", user: john)
   end
 
-  scenario "A user updates an article" do
+  feature "#Editing an Article" do
+    scenario "A user updates an article" do
 
-    visit "/"
+      visit "/"
 
-    click_link @article.title
-    click_link "Edit Article"
-    fill_in "Title", with: "Updated Article"
-    fill_in "Body", with: "Lorem Ipsum"
-    click_button "Update Article"
-    expect(page).to have_content("Article has been updated")
-    expect(page.current_path).to eq(article_path(@article))
-  end
+      click_link @article.title
+      click_link "Edit Article"
+      fill_in "Title", with: "Updated Article"
+      fill_in "Body", with: "Lorem Ipsum"
+      click_button "Update Article"
+      expect(page).to have_content("Article has been updated")
+      expect(page.current_path).to eq(article_path(@article))
+    end
 
-  scenario "A user fails to update an article" do
+    scenario "A user fails to update an article" do
 
-    visit "/"
+      visit "/"
 
-    click_link @article.title
-    click_link "Edit Article"
-    fill_in "Title", with: ""
-    fill_in "Body", with: "Lorem Ipsum"
-    click_button "Update Article"
-    expect(page).to have_content("Article has not been updated")
-    expect(current_path).to eq(article_path(@article))
+      click_link @article.title
+      click_link "Edit Article"
+      fill_in "Title", with: ""
+      fill_in "Body", with: "Lorem Ipsum"
+      click_button "Update Article"
+      expect(page).to have_content("Article has not been updated")
+      expect(current_path).to eq(article_path(@article))
+    end
   end
 end
