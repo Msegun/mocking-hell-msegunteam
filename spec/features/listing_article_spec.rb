@@ -4,7 +4,6 @@ RSpec.feature 'Articles - listing' do
 
   before do
     john = User.create(email: "john@example.com", password: "password")
-    login_as(john)
     @article1 = Article.create(title: 'The first article', body: 'Lorem ipsum dolor sit amet, consectetur.', user: john)
     @article2 = Article.create(title: 'The second article', body: 'Pellentesque ac ligula in tellus feugiat.', user: john)
   end
