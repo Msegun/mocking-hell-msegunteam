@@ -532,6 +532,8 @@
         1,
         null,
         1,
+        1,
+        null,
         null
       ],
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/models/user.rb": [
@@ -555,6 +557,13 @@
       ],
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/helpers/articles_helper.rb": [
         1,
+        1,
+        21,
+        null,
+        null
+      ],
+      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/helpers/comments_helper.rb": [
+        1,
         null
       ],
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/controllers/articles_controller.rb": [
@@ -563,7 +572,7 @@
         1,
         null,
         1,
-        24,
+        25,
         null,
         null,
         1,
@@ -612,6 +621,8 @@
         null,
         null,
         1,
+        10,
+        10,
         null,
         null,
         1,
@@ -625,7 +636,7 @@
         1,
         null,
         1,
-        16,
+        18,
         null,
         null,
         1,
@@ -642,6 +653,60 @@
         1,
         1,
         null,
+        null,
+        null
+      ],
+      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/controllers/comments_controller_spec.rb": [
+        1,
+        null,
+        1,
+        null,
+        null
+      ],
+      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/controllers/comments_controller.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        null,
+        0,
+        null,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/features/adding_comments_spec.rb": [
+        1,
+        1,
+        null,
+        1,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
         null,
         null
       ],
@@ -933,13 +998,6 @@
         null,
         null
       ],
-      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/models/user_spec.rb": [
-        1,
-        null,
-        1,
-        1,
-        null
-      ],
       "/home/msegun/Dokumenty/Rails_Project/MovieBlog/spec/requests/articles_spec.rb": [
         1,
         null,
@@ -1012,12 +1070,21 @@
         1,
         1,
         1,
-        66,
+        71,
+        null,
+        1,
+        1,
+        null
+      ],
+      "/home/msegun/Dokumenty/Rails_Project/MovieBlog/app/models/comment.rb": [
+        1,
+        1,
+        1,
         null,
         1,
         null
       ]
     },
-    "timestamp": 1514970138
+    "timestamp": 1514974100
   }
 }
